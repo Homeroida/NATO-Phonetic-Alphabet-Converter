@@ -29,6 +29,7 @@ Contributions to this project are welcome! To contribute, please follow these st
 
 ## Contact
 
-This project was created by [Zura Tchanishvili](https://github.com/Homeroida) chanishvili@gmail.com.
+This project was created by [Zura Tchanishvili](https://github.com/Homeroida)
+write on chanishvili@gmail.com.
 
 The NATO phonetic alphabet data was sourced from [Wikipedia](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet).
